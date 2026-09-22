@@ -6,7 +6,7 @@
 <img src="5.png" alt="Output image" width="300">
 <img src="6.png" alt="Output image" width="300">
 <img src="7.png" alt="Output image" width="300">
-<img src="8.png" alt="Output image" width="300">
+<img src="download.png" alt="Output image" width="300">
 # AIM
 
 To demonstrate **bit plane slicing** of a grayscale image by extracting and visualizing its individual **8-bit planes**.
