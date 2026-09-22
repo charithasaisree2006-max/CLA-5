@@ -1,4 +1,5 @@
 # Bit plane slicing
+<img src="output.png" alt="Output image" width="700">
 # AIM
 
 To demonstrate **bit plane slicing** of a grayscale image by extracting and visualizing its individual **8-bit planes**.
