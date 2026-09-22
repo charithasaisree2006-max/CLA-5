@@ -1,12 +1,12 @@
 # Bit plane slicing
 <img src="output.png" alt="Output image" width="700">
-<img src="1.png" alt="Output image" width="300">
-<img src="2).png" alt="Output image" width="300">
-<img src="3.png" alt="Output image" width="300">
-<img src="5.png" alt="Output image" width="300">
-<img src="6.png" alt="Output image" width="300">
-<img src="7.png" alt="Output image" width="300">
-<img src="download.png" alt="Output image" width="300">
+<img src="1.png" alt="Output image" width="200">
+<img src="2).png" alt="Output image" width="200">
+<img src="3.png" alt="Output image" width="200">
+<img src="5.png" alt="Output image" width="200">
+<img src="6.png" alt="Output image" width="200">
+<img src="7.png" alt="Output image" width="200">
+<img src="download.png" alt="Output image" width="200">
 # AIM
 
 To demonstrate **bit plane slicing** of a grayscale image by extracting and visualizing its individual **8-bit planes**.
