@@ -1,4 +1,4 @@
-
+# Bit plane slicing
 # AIM
 
 To demonstrate **bit plane slicing** of a grayscale image by extracting and visualizing its individual **8-bit planes**.
